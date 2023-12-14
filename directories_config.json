@@ -1,0 +1,10 @@
+{
+    "Windows": ["C:/Windows", "C:/Program Files", "C:/Test"],
+    "Linux": ["/bin", "/etc", "/custom_dir"],
+    "Darwin": ["/bin", "/etc", "/usr", "/var", "/custom_dir_mac"],
+    "QuarantineDir": {
+        "Windows": "D:/IFT 520/FIM/Quarantine", 
+        "Linux": "/path/to/quarantine",
+        "Darwin": "/path/to/quarantine"
+    }
+}
