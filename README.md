@@ -2,7 +2,7 @@
 Cloud Genius Next Gen File Integrity Monitoring System
 
 Project Overview
-CloudGeniusNextGenFIM is a state-of-the-art File Integrity Monitoring system. It offers enhanced threat detection capabilities and integrates seamlessly with various IT environments. Designed for scalability, real-time monitoring, and cross-platform compatibility, this project marks a significant advancement in the cybersecurity domain.
+CloudGeniusNextGenFIM is a state-of-the-art File Integrity Monitoring system. It offers enhanced threat detection capabilities and integrates seamlessly with various IT environments. Designed for scalability, real-time monitoring, and cross-platform compatibility, this project marks a significant advancement in the cybersecurity domain. Video presentation at https://drive.google.com/file/d/14PvD82-N1X5zU4SoWkTflnAR8wz7OlYx/view?usp=sharing.
 
 Features
 1. Real-time Monitoring: Continuous tracking of file changes across various environments.
