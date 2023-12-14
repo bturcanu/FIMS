@@ -60,6 +60,7 @@ Obtain the latest Full data dump of SHA256 Hashes from Malware Bazaar at https:/
 Place the denylist file in the specified directory in the script.
 
 Execution
+
 Run Initialization.py to set up the initial environment in administrative mode using PowerShell or CMD.
 Execute MonitoringMechanism.py to start the monitoring process.
 Specify the server name and password when using SQL server authentication, as appropriate. 
