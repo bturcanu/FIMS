@@ -39,7 +39,9 @@ tqdm: A fast, extensible progress bar for loops and CLI.
 5. Install the dependencies using pip:
 pip install pyodbc tqdm
 
-6. Configuration
+6. Execute the SQL commands from "DatabaseCreation.sql" on your SQL Server. This will create the necessary database and tables for your FIM system to function correctly.
+
+7. Configuration
 Modify directories_config.json to set the directories to be monitored for each platform:
 
 Example Windows configuration:
