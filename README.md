@@ -5,11 +5,11 @@ Project Overview
 CloudGeniusNextGenFIM is a state-of-the-art File Integrity Monitoring system. It offers enhanced threat detection capabilities and integrates seamlessly with various IT environments. Designed for scalability, real-time monitoring, and cross-platform compatibility, this project marks a significant advancement in the cybersecurity domain.
 
 Features
-Real-time Monitoring: Continuous tracking of file changes across various environments.
-Scalability and Efficiency: Utilizes batch processing and connection pooling.
-Cross-Platform Compatibility: Supports Windows, Linux, and macOS.
-Updated Denylist Integration: Utilizes a denylist from Malware Bazaar for effective threat detection.
-Robust Error Handling: Advanced mechanisms for error detection and reporting.
+1. Real-time Monitoring: Continuous tracking of file changes across various environments.
+2. Scalability and Efficiency: Utilizes batch processing and connection pooling.
+3. Cross-Platform Compatibility: Supports Windows, Linux, and macOS.
+4. Updated Denylist Integration: Utilizes a denylist from Malware Bazaar for effective threat detection.
+5. Robust Error Handling: Advanced mechanisms for error detection and reporting.
 
 Installation
 1. Clone the repository:
