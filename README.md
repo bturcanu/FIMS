@@ -57,7 +57,7 @@ Modify directories_config.json to set the directories to be monitored for each p
 Obtain the latest Full data dump of SHA256 Hashes from Malware Bazaar at https://bazaar.abuse.ch/export/ and name the file `full_sha256`.
 Place the denylist file in the specified directory in the script.
 
-Execution
+## Execution
 1. Run `Initialization.py` to set up the initial environment in administrative mode using PowerShell or CMD.
 2. Execute `MonitoringMechanism.py` to start the monitoring process.
 3. Specify the server name and password when using SQL server authentication, as appropriate.
