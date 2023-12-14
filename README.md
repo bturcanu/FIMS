@@ -44,14 +44,14 @@ pip install pyodbc tqdm
 7. Configuration
 Modify directories_config.json to set the directories to be monitored for each platform:
 
-Example Windows configuration:
-"Windows": ["C:/Windows", "C:/Program Files", "C:/Test"]
+  Example Windows configuration:
+  "Windows": ["C:/Windows", "C:/Program Files", "C:/Test"]
 
-Example Linux configuration:
-"Linux": ["/bin", "/etc", "/custom_dir"]
+  Example Linux configuration:
+  "Linux": ["/bin", "/etc", "/custom_dir"]
 
-Example macOS configuration:
-"Darwin": ["/bin", "/etc", "/usr", "/var", "/custom_dir_mac"]
+  Example macOS configuration:
+  "Darwin": ["/bin", "/etc", "/usr", "/var", "/custom_dir_mac"]
 
 8. Set up the quarantine directories in directories_config.json for each platform.
 
