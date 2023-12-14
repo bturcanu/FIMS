@@ -17,31 +17,30 @@ git clone https://github.com/bturcanu/FIMS.git
 
 2. Install Python 3.x if not already installed.
 
-3. Dependencies
-The following Python libraries are required:
-os
-pyodbc (for database connections)
-hashlib
-platform
-json
-tqdm (for progress bars)
-concurrent.futures (for parallel processing)
-queue
-signal
-datetime
-shutil and stat (in MonitoringMechanism.py)
-getpass (in GetConnectionDetails.py)
+3. Dependencies: The following Python libraries are required:  
+os  
+pyodbc (for database connections)  
+hashlib  
+platform  
+json  
+tqdm (for progress bars)  
+concurrent.futures (for parallel processing)  
+queue  
+signal  
+datetime  
+shutil and stat (in MonitoringMechanism.py)  
+getpass (in GetConnectionDetails.py)  
 
-4. Some dependencies listed are not part of the standard Python library and need to be installed separately. These are:
-pyodbc: A Python module that provides access to ODBC databases.
-tqdm: A fast, extensible progress bar for loops and CLI.
+4. Some dependencies listed are not part of the standard Python library and need to be installed separately. These are:  
+pyodbc: A Python module that provides access to ODBC databases.  
+tqdm: A fast, extensible progress bar for loops and CLI.  
 
-5. Install the dependencies using pip:
+5. Install the dependencies using pip:  
 pip install pyodbc tqdm
 
 6. Execute the SQL commands from "DatabaseCreation.sql" on your SQL Server. This will create the necessary database and tables for your FIM system to function correctly.
 
-7. Configuration
+7. Configuration  
 Modify directories_config.json to set the directories to be monitored for each platform:
 
   Example Windows configuration:
