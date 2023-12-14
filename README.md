@@ -54,7 +54,7 @@ Modify directories_config.json to set the directories to be monitored for each p
 8. Set up the quarantine directories in directories_config.json for each platform.
 
 9. Updating Denylist
-Obtain the latest Full data dump of SHA256 Hashes from Malware Bazaar at https://bazaar.abuse.ch/export/ and name the file `full_sha256`.
+Obtain the latest Full data dump of SHA256 Hashes from Malware Bazaar at https://bazaar.abuse.ch/export/ and name the file `full_sha256`.  
 Place the denylist file in the specified directory in the script.
 
 ## Execution
