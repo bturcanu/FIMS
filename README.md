@@ -13,7 +13,7 @@ Robust Error Handling: Advanced mechanisms for error detection and reporting.
 
 Installation
 1. Clone the repository:
-git clone [repository URL]
+git clone https://github.com/bturcanu/FIMS.git
 
 2. Install Python 3.x if not already installed.
 
